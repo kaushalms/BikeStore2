@@ -1,0 +1,22 @@
+﻿@model IEnumerable<BikeStore.Models.Inventory>
+
+@{
+    ViewBag.Title = "Browse";
+}
+
+
+    <ul>
+        @foreach (var inventory in Model)
+        {
+            <li>
+                <h4>@inventory.Type.TypeName</h4>
+                <br/>
+                <h4>Availability: @inventory.ProdStatus.ProdStatusName</h4>
+                @Html.ActionLink(inventory.ModelName , "Details", new { id = inventory.InventoryId })
+               @*<img src="~/Content/Images/@(inventory.InventoryId).jpg" height="100" width="100"/>*@
+                
+            </li>
+        }
+    </ul>
+
+

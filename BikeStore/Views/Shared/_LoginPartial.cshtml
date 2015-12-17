@@ -1,0 +1,22 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Session["LogedUserID"] != null)
+{
+
+    @Html.AntiForgeryToken()
+
+    <ul class="nav navbar-nav navbar-right">
+        <li>
+            @Html.ActionLink("Hello " + Session["LoggedEmail"] + "!", "")
+        </li>
+        <li>@Html.ActionLink("Logout", "Logout", "User")</li>
+    </ul>
+
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Customer Registration", "Register", "User")</li>
+        <li>@Html.ActionLink("Customer Log in", "Login", "User")</li>
+        <li>@Html.ActionLink("Employee/ Manager", "AdminLogin", "User")</li>
+    </ul>
+}

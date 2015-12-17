@@ -1,0 +1,17 @@
+﻿@model BikeStore.Models.Inventory
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Inventory: @Model.ModelName</h2>
+<p class="button">
+    @if(Model.ProdStatus.ProdStatusName=="InStock")
+   { @Html.ActionLink("Add to cart", "AddToCart",
+        "ShoppingCart", new { id = Model.InventoryId }, "")
+    }
+    else
+    {
+        <h4>Not In Stock. Please try later</h4>
+    }
+</p>

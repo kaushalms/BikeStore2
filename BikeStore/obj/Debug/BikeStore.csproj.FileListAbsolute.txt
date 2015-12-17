@@ -1,0 +1,255 @@
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\BikeStore.dll.config
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\BikeStore.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\BikeStore.pdb
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Antlr3.Runtime.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Newtonsoft.Json.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Owin.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\System.Web.Helpers.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\System.Web.Mvc.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\System.Web.Optimization.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\System.Web.Razor.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\System.Web.WebPages.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\WebGrease.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\System.Web.Helpers.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\System.Web.Mvc.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\System.Web.Optimization.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\System.Web.Razor.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\System.Web.WebPages.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Antlr3.Runtime.pdb
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Newtonsoft.Json.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\obj\Debug\BikeStore.dll
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\obj\Debug\BikeStore.pdb
+C:\Users\arjun\Source\Workspaces\BikeStore\BikeStore\BikeStore\obj\Debug\BikeStore.csprojResolveAssemblyReference.cache
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\BikeStore.dll.config
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\BikeStore.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\BikeStore.pdb
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Antlr3.Runtime.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Security.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Newtonsoft.Json.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Owin.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\System.Web.Helpers.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\System.Web.Mvc.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\System.Web.Optimization.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\System.Web.Razor.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\System.Web.WebPages.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\WebGrease.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\System.Web.Helpers.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\System.Web.Mvc.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\System.Web.Optimization.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\System.Web.Razor.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\System.Web.WebPages.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Antlr3.Runtime.pdb
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Newtonsoft.Json.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Security.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\obj\Debug\BikeStore.dll
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\obj\Debug\BikeStore.pdb
+C:\Users\ajinkya_dell\Documents\Visual Studio 2013\Projects\BikeStore\BikeStore\obj\Debug\BikeStore.csprojResolveAssemblyReference.cache
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\BikeStore.dll.config
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\BikeStore.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\BikeStore.pdb
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Antlr3.Runtime.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Security.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Newtonsoft.Json.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Owin.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\System.Web.Helpers.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\System.Web.Mvc.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\System.Web.Optimization.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\System.Web.Razor.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\System.Web.WebPages.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\WebGrease.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\System.Web.Helpers.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\System.Web.Mvc.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\System.Web.Optimization.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\System.Web.Razor.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\System.Web.WebPages.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Antlr3.Runtime.pdb
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Newtonsoft.Json.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Security.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\obj\Debug\BikeStore.dll
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\obj\Debug\BikeStore.pdb
+C:\Users\arjun\Desktop\BikeStore_updated7\BikeStore\BikeStore\obj\Debug\BikeStore.csprojResolveAssemblyReference.cache
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\BikeStore.dll.config
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\BikeStore.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\BikeStore.pdb
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Antlr3.Runtime.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Security.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Newtonsoft.Json.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Owin.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\System.Web.Helpers.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\System.Web.Mvc.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\System.Web.Optimization.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\System.Web.Razor.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\System.Web.WebPages.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\WebGrease.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\System.Web.Helpers.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\System.Web.Mvc.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\System.Web.Optimization.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\System.Web.Razor.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\System.Web.WebPages.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Antlr3.Runtime.pdb
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Newtonsoft.Json.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Security.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\obj\Debug\BikeStore.csprojResolveAssemblyReference.cache
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\obj\Debug\BikeStore.dll
+C:\Users\phani.k1990\Documents\Visual Studio 2013\BikeStore\BikeStore\obj\Debug\BikeStore.pdb
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\BikeStore.dll.config
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\BikeStore.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\BikeStore.pdb
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Antlr3.Runtime.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Newtonsoft.Json.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Owin.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\System.Web.Helpers.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\System.Web.Mvc.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\System.Web.Optimization.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\System.Web.Razor.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\System.Web.WebPages.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\WebGrease.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\System.Web.Helpers.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\System.Web.Mvc.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\System.Web.Optimization.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\System.Web.Razor.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\System.Web.WebPages.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Antlr3.Runtime.pdb
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Newtonsoft.Json.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\obj\Debug\BikeStore.csprojResolveAssemblyReference.cache
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\obj\Debug\BikeStore.dll
+C:\Users\Kaushal\Downloads\BikeStore\BikeStore\BikeStore\obj\Debug\BikeStore.pdb

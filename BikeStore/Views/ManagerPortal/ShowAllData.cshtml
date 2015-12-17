@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "ShowAllData";
+}
+
+<h2>Sales Statistics for the store:</h2>
+
+<p>"Total sales by store for the current day"</p>
+<p> @ViewBag.order_sum_current_day</p>
+<br/>
+<p>"Total sales by store for the current week"</p>
+<p> @ViewBag.order_sum_current_week</p>
+<br/>
+<p>"Total employee bonus by store for the current day"</p>
+<p> @ViewBag.order_Bonus_current_day</p>
+<br/>
+
+<p>"Total employee bonus by store for the current week"</p>
+<p>@ViewBag.order_Bonus_current_week</p>
+<br/>
+<p>"Profits for the day (selling price – inventory cost)"</p>
+<p> @ViewBag.Profit_Current_Day</p> 
+<br/>
+<p>"Profits for the week (selling price – inventory cost)"</p>
+<p>@ViewBag.Profit_Current_week</p>
+

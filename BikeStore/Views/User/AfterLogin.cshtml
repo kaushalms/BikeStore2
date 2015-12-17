@@ -1,0 +1,34 @@
+﻿@{
+    ViewBag.Title = "AfterLogin";
+}
+
+
+@if (Session["LoggedEmail"] != null)
+{
+    <text>
+        <h2>Welcome @User.Identity.Name</h2>
+    </text>
+    
+    <br />
+    
+    <h4>You can do one of the below:</h4>
+    if ((Session["LoggedRole"]).Equals("Employee"))
+    {
+
+        <a href="/InventoryManager">Check Inventory of your store</a><br/>
+        <a href="/OrderSummary">Oheck Order Summary of your store</a>
+    }
+
+    else if ((Session["LoggedRole"]).Equals("Manager"))
+    {
+        <a href="/ManagerPortal">Check Sales data of each store</a><br/>
+        <a href="/Inventories">Check or Add Inventories of all stores</a><br/>
+        <a href="/EmployeeManager">Add/Delete/Modify Employee</a><br/>
+        <a href="/Stores">Add/Delete/Modify Store</a>
+    }
+
+    else if ((Session["LoggedRole"]).Equals("Customer"))
+    {
+        <a href="/Store">Browse Stores and Order</a>
+    }
+}

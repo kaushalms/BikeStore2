@@ -1,0 +1,14 @@
+﻿@model IEnumerable<BikeStore.Models.Type>
+@{
+    ViewBag.Title = "BrowseType";
+}
+
+<h2>Bike Type</h2>
+<p> Select from @Model.Count() types:</p>
+
+<ul>
+    @foreach (var type in Model)
+    {
+        <li>@Html.ActionLink(type.TypeName, "Browse", new { type = type.TypeName })</li>
+    }
+</ul>

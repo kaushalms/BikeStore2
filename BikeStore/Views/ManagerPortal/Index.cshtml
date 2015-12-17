@@ -1,0 +1,16 @@
+﻿@model IEnumerable<BikeStore.Models.Store>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Bike Stores</h2>
+<p> Select from @Model.Count() stores:</p>
+
+<ul>
+    @foreach (var store in Model)
+    {
+        <li>@Html.ActionLink(store.StoreName, "ShowAllData", new { store = store.StoreId })</li>
+    }
+</ul>
+

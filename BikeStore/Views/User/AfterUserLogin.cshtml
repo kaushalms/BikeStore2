@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "AfterLogin";
+}
+
+<h2>After Login</h2>
+@if (Session["LoggedEmail"] != null)
+{
+    <text>
+        Welcome @User.Identity.Name
+    </text>
+    <br/>
+    <br/>
+   <a href="/CheckOut">CheckOut Page</a>
+    
+}
